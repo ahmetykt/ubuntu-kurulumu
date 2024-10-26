@@ -15,6 +15,9 @@ Sanal makine adını yazıyoruz . Ubuntuyu yükleyerek devam ediyoruz.
 # 5.SANAL SABİT DİSKİ
 Sanal sabit diskimiz için kapasite ayarlıyoruz.
 ![Ekran görüntüsü 2024-10-26 202414](https://github.com/user-attachments/assets/8661d138-ad5c-439b-b5da-187c79baf5b9)
+# 5.1 BELLEK BELİRLEME
+Bellek miktarını ve işlemci sayısını belirliyoruz.
+![ahmet_ubuntu](https://github.com/user-attachments/assets/733caddd-3191-46f5-af9e-fa830429b048)
 # 6.SANAL MAKİNE OLUŞTUR
 Sanal makine oluşturmak için bitire basıyoruz.
 ![Ekran görüntüsü 2024-10-26 202443](https://github.com/user-attachments/assets/80f85997-2b4b-4bc0-9e1a-882b127f9a71)
